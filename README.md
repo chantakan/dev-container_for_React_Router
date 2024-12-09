@@ -1,6 +1,6 @@
 # React Router v7 TypeScript Development Environment
 
-このプロジェクトは、React Router v7を使用したTypeScript開発環境を提供します。以下の手順に従ってセットアップを行ってください。
+このプロジェクトは、[React Router v7](https://reactrouter.com/)を使用したTypeScript開発環境を提供します。以下の手順に従ってセットアップを行ってください。
 
 ## React Router v7について
 
@@ -10,6 +10,9 @@ React Routerは、Reactアプリケーションのための標準的なルーテ
 
 ### 1. リポジトリをクローン
 
+```bash
+git clone https://github.com/chantakan/dev-container_for_React_Router.git
+```
 
 ### 2. Devcontainerのセットアップ
 このプロジェクトは、VS CodeのDevcontainerを使用して開発環境を提供します。以下の手順に従ってセットアップを行ってください。
@@ -17,8 +20,6 @@ React Routerは、Reactアプリケーションのための標準的なルーテ
 VS Codeでプロジェクトを開きます。
 左下の「><」アイコンをクリックし、「Reopen in Container」を選択します。
 ### 3. 依存関係のインストール
-コンテナ内で以下のコマンドを実行して依存関係をインストールします。
-
 コンテナ内で以下のコマンドを実行して依存関係をインストールします。
 
 ```bash
